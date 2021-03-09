@@ -1,4 +1,4 @@
 Run one by one:
-npm run install
-npm run build
-npm run test
+npm run install ;
+npm run build ;
+npm run test ;
